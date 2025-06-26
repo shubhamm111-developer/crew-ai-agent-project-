@@ -1,24 +1,36 @@
-# Multi-Agent Customer Support System using CrewAI
+👨‍💻 Created by:
+Shubham Awasthi
+B.Tech CSE, 2nd Year, RKGIT Ghaziabad
+📧 Email: shubham001kv@gmail.com
+🐙 GitHub: github.com/Shubham4264
+🔗 LinkedIn: Shubham Awasthi
 
-## 👨‍💻 Created by:
-**Shubham Awasthi**  
-B.Tech CSE, 2nd Year, RKGIT Ghaziabad  
-Email: shubham001kv@gmail.com  
-GitHub: https://github.com/Shubham4264  
-LinkedIn: https://www.linkedin.com/in/shubham-awasthi-b768a128a
+📌 Project Overview
+This project simulates a real-world customer support environment using the power of CrewAI, a framework designed to build collaborative AI agent teams. Each agent in this system performs a unique role to efficiently handle customer queries and deliver fast, accurate support.
 
----
+🧠 System Agents & Their Roles
+🧑‍🔧 Technical Support Agent
+Handles technical issues such as troubleshooting errors, guiding installations, resolving connectivity problems, and helping users navigate technical obstacles related to the product.
 
-## 📌 Project Overview
+💰 Billing Support Agent
+Takes care of all billing and payment-related inquiries including invoice generation, refund requests, subscription upgrades/downgrades, and transaction disputes.
 
-This is a multi-agent customer support system built using [CrewAI](https://github.com/joaomdmoura/crewAI). It simulates a real-world customer support team with different roles:
+📦 Product Information Agent
+Provides detailed information about products such as specifications, usage instructions, feature comparisons, availability, warranty, and customer benefits.
 
-- 🧑‍🔧 Technical Support Agent
-- 💰 Billing Support Agent
-- 📦 Product Information Agent
-- 🔁 Escalation Manager
+🔁 Escalation Manager
+Monitors unresolved or critical queries and ensures smooth escalation to human support or specialized agents. Acts as the fallback mechanism for customer satisfaction assurance.
 
-Each agent has a specific role and can delegate tasks using tools.
-all codes and agents are present in main folder 
-thank you for this opportunity
+🤖 Features
+✅ Role-based agent delegation
+
+✅ Multi-threaded query handling
+
+✅ Modular tool integration for task completion
+
+✅ Easily extendable architecture
+
+✅ Realistic simulation of customer support workflows
+🙏 Special Thanks
+Thank you for this opportunity to work on a real-world multi-agent AI simulation project. This has been an enriching experience and a great step forward in my journey as a Python and AI developer.
 
